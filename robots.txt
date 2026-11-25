@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chanjung110457.github.io/refactored-computing-machine/sitemap.xml
